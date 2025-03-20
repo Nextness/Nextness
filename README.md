@@ -1,4 +1,4 @@
-#👋 Hi there! I'm Natan Menegasse (aka Nextness)
+# 👋 Hi there! I'm Natan Menegasse (aka Nextness)
 
 I'm passionate about building scalable, secure, and reliable cloud solutions. With expertise in Terraform, AWS, and Okta, I specialize in Infrastructure as Code (IaC), identity and access management (IAM), and cloud integrations.
 
